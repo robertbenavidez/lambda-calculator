@@ -4,6 +4,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  margin: 10 auto;
+  width: 75vw;
+  height: 75vw;
+  display: flex;
 }
 
 code {
